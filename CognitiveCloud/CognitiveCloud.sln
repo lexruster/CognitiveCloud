@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveCloud", "CognitiveCloud\CognitiveCloud\CognitiveCloud.csproj", "{D6AED7D6-B0BB-48D6-89C8-9DA7FAA8C17A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CognitiveCloudContent", "CognitiveCloud\CognitiveCloudContent\CognitiveCloudContent.contentproj", "{B15C35B3-7551-4AC4-889A-FD6F616376FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AED7D6-B0BB-48D6-89C8-9DA7FAA8C17A}.Debug|x86.ActiveCfg = Debug|x86
+		{D6AED7D6-B0BB-48D6-89C8-9DA7FAA8C17A}.Debug|x86.Build.0 = Debug|x86
+		{D6AED7D6-B0BB-48D6-89C8-9DA7FAA8C17A}.Release|x86.ActiveCfg = Release|x86
+		{D6AED7D6-B0BB-48D6-89C8-9DA7FAA8C17A}.Release|x86.Build.0 = Release|x86
+		{B15C35B3-7551-4AC4-889A-FD6F616376FF}.Debug|x86.ActiveCfg = Debug|x86
+		{B15C35B3-7551-4AC4-889A-FD6F616376FF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
